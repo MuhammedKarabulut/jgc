@@ -7,15 +7,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses773318muhams1a",
+      "name": "sdeeeeewssdsdsd773318muhams1a",
       "location": "eastus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "1yessseses286271muhams1a",
+            "name": "1sdeeeeewssdsdsd286271muhams1a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -35,15 +35,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses185845muhams1b",
+      "name": "sdeeeeewssdsdsd185845muhams1b",
       "location": "eastus2",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "2yessseses125761muhams1b",
+            "name": "2sdeeeeewssdsdsd125761muhams1b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -63,15 +63,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses125836muhams1b",
+      "name": "sdeeeeewssdsdsd125836muhams1b",
       "location": "southcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "3yessseses841482muhams1b",
+            "name": "3sdeeeeewssdsdsd841482muhams1b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -91,15 +91,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "4yessseses734398muhams1c",
+      "name": "4sdeeeeewssdsdsd734398muhams1c",
       "location": "westus2",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses718950muhams1c",
+            "name": "sdeeeeewssdsdsd718950muhams1c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -119,15 +119,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "5yessseses842525muhams1d",
+      "name": "5sdeeeeewssdsdsd842525muhams1d",
       "location": "westus3",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses236263muhams1d",
+            "name": "sdeeeeewssdsdsd236263muhams1d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -147,15 +147,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses56999muhams2a",
+      "name": "sdeeeeewssdsdsd56999muhams2a",
       "location": "australiaeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses224516muhams2a",
+            "name": "sdeeeeewssdsdsd224516muhams2a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -175,15 +175,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses802073muhams2b",
+      "name": "sdeeeeewssdsdsd802073muhams2b",
       "location": "southeastasia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses665355muhams2b",
+            "name": "sdeeeeewssdsdsd665355muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -203,15 +203,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses579559muhams2b",
+      "name": "sdeeeeewssdsdsd579559muhams2b",
       "location": "northeurope",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses208896muhams2b",
+            "name": "sdeeeeewssdsdsd208896muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -231,15 +231,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses16981muhams2c",
+      "name": "sdeeeeewssdsdsd16981muhams2c",
       "location": "swedencentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses427510muhams2c",
+            "name": "sdeeeeewssdsdsd427510muhams2c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -259,15 +259,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses693670muhams2d",
+      "name": "sdeeeeewssdsdsd693670muhams2d",
       "location": "uksouth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses688636muhams2d",
+            "name": "sdeeeeewssdsdsd688636muhams2d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -287,15 +287,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses216879muhams3a",
+      "name": "sdeeeeewssdsdsd216879muhams3a",
       "location": "westeurope",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses185455muhams3a",
+            "name": "sdeeeeewssdsdsd185455muhams3a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -315,15 +315,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses769157muhams3b",
+      "name": "sdeeeeewssdsdsd769157muhams3b",
       "location": "centralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses601512muhams3b",
+            "name": "sdeeeeewssdsdsd601512muhams3b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -343,15 +343,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses625466muhams3c",
+      "name": "sdeeeeewssdsdsd625466muhams3c",
       "location": "southafricanorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses881183muhams3c",
+            "name": "sdeeeeewssdsdsd881183muhams3c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -371,15 +371,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses629996muhams3d",
+      "name": "sdeeeeewssdsdsd629996muhams3d",
       "location": "centralindia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses800025muhams3d",
+            "name": "sdeeeeewssdsdsd800025muhams3d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -399,15 +399,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses159228muhams4a",
+      "name": "sdeeeeewssdsdsd159228muhams4a",
       "location": "eastasia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses50084muhams4a",
+            "name": "sdeeeeewssdsdsd50084muhams4a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -427,15 +427,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses349147muhams4b",
+      "name": "sdeeeeewssdsdsd349147muhams4b",
       "location": "japaneast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses621272muhams4b",
+            "name": "sdeeeeewssdsdsd621272muhams4b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -455,15 +455,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses656139muhams4c",
+      "name": "sdeeeeewssdsdsd656139muhams4c",
       "location": "koreacentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses140479muhams4c",
+            "name": "sdeeeeewssdsdsd140479muhams4c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -483,15 +483,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses246722muhams4d",
+      "name": "sdeeeeewssdsdsd246722muhams4d",
       "location": "canadacentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses113504muhams4d",
+            "name": "sdeeeeewssdsdsd113504muhams4d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -511,15 +511,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses209976muhams5a",
+      "name": "sdeeeeewssdsdsd209976muhams5a",
       "location": "francecentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses692182muhams5a",
+            "name": "sdeeeeewssdsdsd692182muhams5a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -539,15 +539,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses963429muhams5b",
+      "name": "sdeeeeewssdsdsd963429muhams5b",
       "location": "germanywestcentral",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses601255muhams5b",
+            "name": "sdeeeeewssdsdsd601255muhams5b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -567,15 +567,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses549020muhams5c",
+      "name": "sdeeeeewssdsdsd549020muhams5c",
       "location": "norwayeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses86575muhams5c",
+            "name": "sdeeeeewssdsdsd86575muhams5c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -595,15 +595,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses69591muhams2b",
+      "name": "sdeeeeewssdsdsd69591muhams2b",
       "location": "switzerlandnorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses168695muhams2b",
+            "name": "sdeeeeewssdsdsd168695muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -623,15 +623,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses427574muhams2b",
+      "name": "sdeeeeewssdsdsd427574muhams2b",
       "location": "uaenorth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses23685muhams2b",
+            "name": "sdeeeeewssdsdsd23685muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -651,15 +651,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses935925muhams2b",
+      "name": "sdeeeeewssdsdsd935925muhams2b",
       "location": "brazilsouth",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses823975muhams2b",
+            "name": "sdeeeeewssdsdsd823975muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -679,15 +679,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses854024muhams1a",
+      "name": "sdeeeeewssdsdsd854024muhams1a",
       "location": "northcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses883320muhams1a",
+            "name": "sdeeeeewssdsdsd883320muhams1a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -707,15 +707,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses594472muhams1b",
+      "name": "sdeeeeewssdsdsd594472muhams1b",
       "location": "westus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses352911muhams1b",
+            "name": "sdeeeeewssdsdsd352911muhams1b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -735,15 +735,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses96168muhams1b",
+      "name": "sdeeeeewssdsdsd96168muhams1b",
       "location": "westcentralus",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses429007muhams1b",
+            "name": "sdeeeeewssdsdsd429007muhams1b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -763,15 +763,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses259490muhams1c",
+      "name": "sdeeeeewssdsdsd259490muhams1c",
       "location": "australiasoutheast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses877730muhams1c",
+            "name": "sdeeeeewssdsdsd877730muhams1c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -791,15 +791,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses97563muhams1d",
+      "name": "sdeeeeewssdsdsd97563muhams1d",
       "location": "japanwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses558588muhams1d",
+            "name": "sdeeeeewssdsdsd558588muhams1d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -819,15 +819,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses527085muhams2a",
+      "name": "sdeeeeewssdsdsd527085muhams2a",
       "location": "southindia",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses866328muhams2a",
+            "name": "sdeeeeewssdsdsd866328muhams2a",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -847,15 +847,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses500122muhams2b",
+      "name": "sdeeeeewssdsdsd500122muhams2b",
       "location": "canadaeast",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses963203muhams2b",
+            "name": "sdeeeeewssdsdsd963203muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -875,15 +875,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses975720muhams2b",
+      "name": "sdeeeeewssdsdsd975720muhams2b",
       "location": "norwaywest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses841833muhams2b",
+            "name": "sdeeeeewssdsdsd841833muhams2b",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -903,15 +903,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses519698muhams2c",
+      "name": "sdeeeeewssdsdsd519698muhams2c",
       "location": "switzerlandwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses853745muhams2c",
+            "name": "sdeeeeewssdsdsd853745muhams2c",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -931,15 +931,15 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "yessseses72270muhams2d",
+      "name": "sdeeeeewssdsdsd72270muhams2d",
       "location": "ukwest",
       "properties": {
         "sku": "Standard",
         "containers": [
           {
-            "name": "yessseses720238muhams2d",
+            "name": "sdeeeeewssdsdsd720238muhams2d",
             "properties": {
-              "image": "osmanbeg/cpulatest/jgc",
+              "image": "allinones1/cputry:jgc",
               "ports": [],
               "environmentVariables": [],
               "resources": {
