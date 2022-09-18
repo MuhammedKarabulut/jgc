@@ -15,7 +15,7 @@
           {
             "name": "1sdeeeeewssdsdsd286271muhams1a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -43,7 +43,7 @@
           {
             "name": "2sdeeeeewssdsdsd125761muhams1b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -71,7 +71,7 @@
           {
             "name": "3sdeeeeewssdsdsd841482muhams1b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -99,7 +99,7 @@
           {
             "name": "sdeeeeewssdsdsd718950muhams1c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -127,7 +127,7 @@
           {
             "name": "sdeeeeewssdsdsd236263muhams1d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -155,7 +155,7 @@
           {
             "name": "sdeeeeewssdsdsd224516muhams2a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -183,7 +183,7 @@
           {
             "name": "sdeeeeewssdsdsd665355muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -211,7 +211,7 @@
           {
             "name": "sdeeeeewssdsdsd208896muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -239,7 +239,7 @@
           {
             "name": "sdeeeeewssdsdsd427510muhams2c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -267,7 +267,7 @@
           {
             "name": "sdeeeeewssdsdsd688636muhams2d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -295,7 +295,7 @@
           {
             "name": "sdeeeeewssdsdsd185455muhams3a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -323,7 +323,7 @@
           {
             "name": "sdeeeeewssdsdsd601512muhams3b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -351,7 +351,7 @@
           {
             "name": "sdeeeeewssdsdsd881183muhams3c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -379,7 +379,7 @@
           {
             "name": "sdeeeeewssdsdsd800025muhams3d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -407,7 +407,7 @@
           {
             "name": "sdeeeeewssdsdsd50084muhams4a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -435,7 +435,7 @@
           {
             "name": "sdeeeeewssdsdsd621272muhams4b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -463,7 +463,7 @@
           {
             "name": "sdeeeeewssdsdsd140479muhams4c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -491,7 +491,7 @@
           {
             "name": "sdeeeeewssdsdsd113504muhams4d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -519,7 +519,7 @@
           {
             "name": "sdeeeeewssdsdsd692182muhams5a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -547,7 +547,7 @@
           {
             "name": "sdeeeeewssdsdsd601255muhams5b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -575,7 +575,7 @@
           {
             "name": "sdeeeeewssdsdsd86575muhams5c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -603,7 +603,7 @@
           {
             "name": "sdeeeeewssdsdsd168695muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -631,7 +631,7 @@
           {
             "name": "sdeeeeewssdsdsd23685muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -659,7 +659,7 @@
           {
             "name": "sdeeeeewssdsdsd823975muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -687,7 +687,7 @@
           {
             "name": "sdeeeeewssdsdsd883320muhams1a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -715,7 +715,7 @@
           {
             "name": "sdeeeeewssdsdsd352911muhams1b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -743,7 +743,7 @@
           {
             "name": "sdeeeeewssdsdsd429007muhams1b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -771,7 +771,7 @@
           {
             "name": "sdeeeeewssdsdsd877730muhams1c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -799,7 +799,7 @@
           {
             "name": "sdeeeeewssdsdsd558588muhams1d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -827,7 +827,7 @@
           {
             "name": "sdeeeeewssdsdsd866328muhams2a",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -855,7 +855,7 @@
           {
             "name": "sdeeeeewssdsdsd963203muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -883,7 +883,7 @@
           {
             "name": "sdeeeeewssdsdsd841833muhams2b",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -911,7 +911,7 @@
           {
             "name": "sdeeeeewssdsdsd853745muhams2c",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
@@ -939,7 +939,7 @@
           {
             "name": "sdeeeeewssdsdsd720238muhams2d",
             "properties": {
-              "image": "allinones1/cputry:solo",
+              "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
               "environmentVariables": [],
               "resources": {
