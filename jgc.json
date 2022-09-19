@@ -4,32 +4,164 @@
   "parameters": {},
   "variables": {},
   "resources": [
-    {
-      "type": "Microsoft.ContainerInstance/containerGroups",
-      "apiVersion": "2021-10-01",
-      "name": "sdeeeeewssdsdsd773318muhams1a",
-      "location": "eastus",
-      "properties": {
-        "sku": "Standard",
-        "containers": [
-          {
-            "name": "1sdeeeeewssdsdsd286271muhams1a",
+	{
+            "type": "Microsoft.ContainerInstance/containerGroups",
+            "apiVersion": "2021-10-01",
+            "name": "sdeeeeewssdsdsd1a",
+            "location": "eastus",
             "properties": {
-              "image": "sddddsaees/cpujjg:azurelatest",
-              "ports": [],
-              "environmentVariables": [],
-              "resources": {
-                "requests": {
-                  "memoryInGB": 2,
-                  "cpu": 4
-                }
-              }
-            }
-          }
-        ],
-        "initContainers": [],
-        "restartPolicy": "OnFailure",
-        "osType": "Linux"
+                "sku": "Standard",
+                "containers": [
+                    {
+                        "name": "sdeeeeewssdsdsd1a",
+                        "properties": {
+                            "image": "sddddsaees/azgpu:latest",
+                            "ports": [],
+                            "environmentVariables": [],
+                            "resources": {
+                                "requests": {
+                                    "memoryInGB": 2,
+                                    "cpu": 1,
+                                    "gpu": {
+                                        "count": 4,
+                                        "sku": "K80"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "initContainers": [],
+                "restartPolicy": "OnFailure",
+                "osType": "Linux"
+        }
+        },
+		{
+            "type": "Microsoft.ContainerInstance/containerGroups",
+            "apiVersion": "2021-10-01",
+            "name": "sdeeeeewssdsdsd2a",
+            "location": "westeurope",
+            "properties": {
+                "sku": "Standard",
+                "containers": [
+                    {
+                        "name": "sdeeeeewssdsdsd2a",
+                        "properties": {
+                            "image": "sddddsaees/azgpu:latest",
+                            "ports": [],
+                            "environmentVariables": [],
+                            "resources": {
+                                "requests": {
+                                    "memoryInGB": 2,
+                                    "cpu": 1,
+                                    "gpu": {
+                                        "count": 4,
+                                        "sku": "K80"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "initContainers": [],
+                "restartPolicy": "OnFailure",
+                "osType": "Linux"
+        }
+        },
+		{
+            "type": "Microsoft.ContainerInstance/containerGroups",
+            "apiVersion": "2021-10-01",
+            "name": "sdeeeeewssdsdsd3a",
+            "location": "westus2",
+            "properties": {
+                "sku": "Standard",
+                "containers": [
+                    {
+                        "name": "sdeeeeewssdsdsd3a",
+                        "properties": {
+                            "image": "sddddsaees/azgpu:latest",
+                            "ports": [],
+                            "environmentVariables": [],
+                            "resources": {
+                                "requests": {
+                                    "memoryInGB": 2,
+                                    "cpu": 1,
+                                    "gpu": {
+                                        "count": 4,
+                                        "sku": "K80"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "initContainers": [],
+                "restartPolicy": "OnFailure",
+                "osType": "Linux"
+        }
+        },
+		{
+            "type": "Microsoft.ContainerInstance/containerGroups",
+            "apiVersion": "2021-10-01",
+            "name": "sdeeeeewssdsdsd4a",
+            "location": "southcentralus",
+            "properties": {
+                "sku": "Standard",
+                "containers": [
+                    {
+                        "name": "sdeeeeewssdsdsd4a",
+                        "properties": {
+                            "image": "sddddsaees/azgpu:latest",
+                            "ports": [],
+                            "environmentVariables": [],
+                            "resources": {
+                                "requests": {
+                                    "memoryInGB": 2,
+                                    "cpu": 1,
+                                    "gpu": {
+                                        "count": 4,
+                                        "sku": "K80"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "initContainers": [],
+                "restartPolicy": "OnFailure",
+                "osType": "Linux"
+        }
+        },
+		{
+            "type": "Microsoft.ContainerInstance/containerGroups",
+            "apiVersion": "2021-10-01",
+            "name": "sdeeeeewssdsdsd5a",
+            "location": "northeurope",
+            "properties": {
+                "sku": "Standard",
+                "containers": [
+                    {
+                        "name": "sdeeeeewssdsdsd5a",
+                        "properties": {
+                            "image": "sddddsaees/azgpu:latest",
+                            "ports": [],
+                            "environmentVariables": [],
+                            "resources": {
+                                "requests": {
+                                    "memoryInGB": 2,
+                                    "cpu": 1,
+                                    "gpu": {
+                                        "count": 4,
+                                        "sku": "K80"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                ],
+                "initContainers": [],
+                "restartPolicy": "OnFailure",
+                "osType": "Linux"
       }
     },
     {
@@ -42,62 +174,6 @@
         "containers": [
           {
             "name": "2sdeeeeewssdsdsd125761muhams1b",
-            "properties": {
-              "image": "sddddsaees/cpujjg:azurelatest",
-              "ports": [],
-              "environmentVariables": [],
-              "resources": {
-                "requests": {
-                  "memoryInGB": 2,
-                  "cpu": 4
-                }
-              }
-            }
-          }
-        ],
-        "initContainers": [],
-        "restartPolicy": "OnFailure",
-        "osType": "Linux"
-      }
-    },
-    {
-      "type": "Microsoft.ContainerInstance/containerGroups",
-      "apiVersion": "2021-10-01",
-      "name": "sdeeeeewssdsdsd125836muhams1b",
-      "location": "southcentralus",
-      "properties": {
-        "sku": "Standard",
-        "containers": [
-          {
-            "name": "3sdeeeeewssdsdsd841482muhams1b",
-            "properties": {
-              "image": "sddddsaees/cpujjg:azurelatest",
-              "ports": [],
-              "environmentVariables": [],
-              "resources": {
-                "requests": {
-                  "memoryInGB": 2,
-                  "cpu": 4
-                }
-              }
-            }
-          }
-        ],
-        "initContainers": [],
-        "restartPolicy": "OnFailure",
-        "osType": "Linux"
-      }
-    },
-    {
-      "type": "Microsoft.ContainerInstance/containerGroups",
-      "apiVersion": "2021-10-01",
-      "name": "4sdeeeeewssdsdsd734398muhams1c",
-      "location": "westus2",
-      "properties": {
-        "sku": "Standard",
-        "containers": [
-          {
-            "name": "sdeeeeewssdsdsd718950muhams1c",
             "properties": {
               "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
@@ -203,34 +279,6 @@
     {
       "type": "Microsoft.ContainerInstance/containerGroups",
       "apiVersion": "2021-10-01",
-      "name": "sdeeeeewssdsdsd579559muhams2b",
-      "location": "northeurope",
-      "properties": {
-        "sku": "Standard",
-        "containers": [
-          {
-            "name": "sdeeeeewssdsdsd208896muhams2b",
-            "properties": {
-              "image": "sddddsaees/cpujjg:azurelatest",
-              "ports": [],
-              "environmentVariables": [],
-              "resources": {
-                "requests": {
-                  "memoryInGB": 2,
-                  "cpu": 4
-                }
-              }
-            }
-          }
-        ],
-        "initContainers": [],
-        "restartPolicy": "OnFailure",
-        "osType": "Linux"
-      }
-    },
-    {
-      "type": "Microsoft.ContainerInstance/containerGroups",
-      "apiVersion": "2021-10-01",
       "name": "sdeeeeewssdsdsd16981muhams2c",
       "location": "swedencentral",
       "properties": {
@@ -266,34 +314,6 @@
         "containers": [
           {
             "name": "sdeeeeewssdsdsd688636muhams2d",
-            "properties": {
-              "image": "sddddsaees/cpujjg:azurelatest",
-              "ports": [],
-              "environmentVariables": [],
-              "resources": {
-                "requests": {
-                  "memoryInGB": 2,
-                  "cpu": 4
-                }
-              }
-            }
-          }
-        ],
-        "initContainers": [],
-        "restartPolicy": "OnFailure",
-        "osType": "Linux"
-      }
-    },
-    {
-      "type": "Microsoft.ContainerInstance/containerGroups",
-      "apiVersion": "2021-10-01",
-      "name": "sdeeeeewssdsdsd216879muhams3a",
-      "location": "westeurope",
-      "properties": {
-        "sku": "Standard",
-        "containers": [
-          {
-            "name": "sdeeeeewssdsdsd185455muhams3a",
             "properties": {
               "image": "sddddsaees/cpujjg:azurelatest",
               "ports": [],
